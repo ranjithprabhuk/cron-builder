@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.72f0ab25.css",
-    "main.js": "/static/js/main.7d87064a.js",
-    "index.html": "/index.html",
-    "main.72f0ab25.css.map": "/static/css/main.72f0ab25.css.map",
-    "main.7d87064a.js.map": "/static/js/main.7d87064a.js.map"
+    "main.css": "/cron-builder/static/css/main.72f0ab25.css",
+    "main.js": "/cron-builder/static/js/main.7d87064a.js",
+    "index.html": "/cron-builder/index.html",
+    "main.72f0ab25.css.map": "/cron-builder/static/css/main.72f0ab25.css.map",
+    "main.7d87064a.js.map": "/cron-builder/static/js/main.7d87064a.js.map"
   },
   "entrypoints": [
     "static/css/main.72f0ab25.css",
