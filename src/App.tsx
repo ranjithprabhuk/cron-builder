@@ -487,9 +487,7 @@ const CronExpressionBuilder: React.FC = () => {
           </List>
         </Paper>
       </Paper>
-      <Paper shadow="sm" p="md" radius="md" withBorder mb="lg">
-        <CronDescription initialExpression={convertToCronString(cronExpression)} />
-      </Paper>
+      <CronDescription initialExpression={convertToCronString(cronExpression)} />
     </Container>
   );
 };
