@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cron-builder/static/css/main.72f0ab25.css",
-    "main.js": "/cron-builder/static/js/main.7d87064a.js",
+    "main.js": "/cron-builder/static/js/main.3301e919.js",
     "index.html": "/cron-builder/index.html",
     "main.72f0ab25.css.map": "/cron-builder/static/css/main.72f0ab25.css.map",
-    "main.7d87064a.js.map": "/cron-builder/static/js/main.7d87064a.js.map"
+    "main.3301e919.js.map": "/cron-builder/static/js/main.3301e919.js.map"
   },
   "entrypoints": [
     "static/css/main.72f0ab25.css",
-    "static/js/main.7d87064a.js"
+    "static/js/main.3301e919.js"
   ]
 }
